@@ -1,0 +1,8 @@
+name: demographic-percent-change
+account: arilamstein
+server: shinyapps.io
+bundleId: 245703
+url: https://arilamstein.shinyapps.io/demographic-percent-change
+when: 1440106864.96745
+asMultiple: FALSE
+asStatic: FALSE
