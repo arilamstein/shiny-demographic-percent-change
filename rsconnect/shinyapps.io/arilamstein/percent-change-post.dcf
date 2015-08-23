@@ -1,8 +1,8 @@
 name: percent-change-post
 account: arilamstein
 server: shinyapps.io
-bundleId: 248942
+bundleId: 248961
 url: https://arilamstein.shinyapps.io/percent-change-post
-when: 1440351614.15126
+when: 1440351954.84684
 asMultiple: FALSE
 asStatic: FALSE
